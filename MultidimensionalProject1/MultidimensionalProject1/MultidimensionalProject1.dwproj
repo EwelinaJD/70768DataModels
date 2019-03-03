@@ -47,6 +47,14 @@
       <Name>DDim Fact IT Machine.dim</Name>
       <FullPath>DDim Fact IT Machine.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>DimProduct.dim</Name>
+      <FullPath>DimProduct.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DimCurrency.dim</Name>
+      <FullPath>DimCurrency.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
